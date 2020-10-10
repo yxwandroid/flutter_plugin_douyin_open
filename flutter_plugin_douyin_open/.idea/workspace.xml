@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="082dc5de-cda1-48bc-9f4e-7092be5c31f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +43,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="436" y="252" key="CommitChangelistDialog2" timestamp="1602228726519">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="436" y="250" key="CommitChangelistDialog2" timestamp="1602322898909">
+      <screen x="0" y="23" width="1792" height="1021" />
     </state>
+    <state x="436" y="250" key="CommitChangelistDialog2/-128.-1057.1920.1057/0.23.1792.1021@0.23.1792.1021" timestamp="1602322898909" />
     <state x="436" y="252" key="CommitChangelistDialog2/-128.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602228726519" />
     <state width="1750" height="95" key="GridCell.Tab.0.bottom" timestamp="1602322083665">
       <screen x="0" y="23" width="1792" height="1021" />
