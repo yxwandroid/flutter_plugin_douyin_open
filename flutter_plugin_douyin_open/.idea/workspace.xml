@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="082dc5de-cda1-48bc-9f4e-7092be5c31f1" name="Default Changelist" comment="" />
+    <list default="true" id="082dc5de-cda1-48bc-9f4e-7092be5c31f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/FlutterPluginDouyinOpenPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/FlutterPluginDouyinOpenPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/SwiftFlutterPluginDouyinOpenPlugin.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/SwiftFlutterPluginDouyinOpenPlugin.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/flutter_plugin_douyin_open.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/flutter_plugin_douyin_open.podspec" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="6YRRGCGTOG5DTF3M" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="HKL51KG9" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1icmLQNfO8So6Rwh5YtOmRUE1Bs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,22 +55,34 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="436" y="252" key="CommitChangelistDialog2/-128.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602228726519" />
-    <state width="1750" height="278" key="GridCell.Tab.0.bottom" timestamp="1602227974343">
+    <state width="1750" height="271" key="GridCell.Tab.0.bottom" timestamp="1602320780535">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1750" height="278" key="GridCell.Tab.0.bottom/-128.-1080.1920.1080/0.23.1792.1021@0.23.1792.1021" timestamp="1602227974343" />
-    <state width="1750" height="278" key="GridCell.Tab.0.center" timestamp="1602227974340">
+    <state width="1750" height="271" key="GridCell.Tab.0.bottom/-128.-1057.1920.1057/0.23.1792.1021@0.23.1792.1021" timestamp="1602320780535" />
+    <state width="1750" height="278" key="GridCell.Tab.0.bottom/-128.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602229193551" />
+    <state width="1750" height="347" key="GridCell.Tab.0.bottom/-128.-1080.1920.1080/0.23.1792.1021@0.23.1792.1021" timestamp="1602320720094" />
+    <state width="1750" height="278" key="GridCell.Tab.0.bottom/0.23.1792.1021@0.23.1792.1021" timestamp="1602248481515" />
+    <state width="1750" height="271" key="GridCell.Tab.0.center" timestamp="1602320780533">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1750" height="278" key="GridCell.Tab.0.center/-128.-1080.1920.1080/0.23.1792.1021@0.23.1792.1021" timestamp="1602227974340" />
-    <state width="1750" height="278" key="GridCell.Tab.0.left" timestamp="1602227974339">
+    <state width="1750" height="271" key="GridCell.Tab.0.center/-128.-1057.1920.1057/0.23.1792.1021@0.23.1792.1021" timestamp="1602320780533" />
+    <state width="1750" height="278" key="GridCell.Tab.0.center/-128.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602229193549" />
+    <state width="1750" height="347" key="GridCell.Tab.0.center/-128.-1080.1920.1080/0.23.1792.1021@0.23.1792.1021" timestamp="1602320720093" />
+    <state width="1750" height="278" key="GridCell.Tab.0.center/0.23.1792.1021@0.23.1792.1021" timestamp="1602248481515" />
+    <state width="1750" height="271" key="GridCell.Tab.0.left" timestamp="1602320780531">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1750" height="278" key="GridCell.Tab.0.left/-128.-1080.1920.1080/0.23.1792.1021@0.23.1792.1021" timestamp="1602227974339" />
-    <state width="1750" height="278" key="GridCell.Tab.0.right" timestamp="1602227974342">
+    <state width="1750" height="271" key="GridCell.Tab.0.left/-128.-1057.1920.1057/0.23.1792.1021@0.23.1792.1021" timestamp="1602320780531" />
+    <state width="1750" height="278" key="GridCell.Tab.0.left/-128.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602229193548" />
+    <state width="1750" height="347" key="GridCell.Tab.0.left/-128.-1080.1920.1080/0.23.1792.1021@0.23.1792.1021" timestamp="1602320720092" />
+    <state width="1750" height="278" key="GridCell.Tab.0.left/0.23.1792.1021@0.23.1792.1021" timestamp="1602248481514" />
+    <state width="1750" height="271" key="GridCell.Tab.0.right" timestamp="1602320780534">
       <screen x="0" y="23" width="1792" height="1021" />
     </state>
-    <state width="1750" height="278" key="GridCell.Tab.0.right/-128.-1080.1920.1080/0.23.1792.1021@0.23.1792.1021" timestamp="1602227974342" />
+    <state width="1750" height="271" key="GridCell.Tab.0.right/-128.-1057.1920.1057/0.23.1792.1021@0.23.1792.1021" timestamp="1602320780534" />
+    <state width="1750" height="278" key="GridCell.Tab.0.right/-128.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1602229193550" />
+    <state width="1750" height="347" key="GridCell.Tab.0.right/-128.-1080.1920.1080/0.23.1792.1021@0.23.1792.1021" timestamp="1602320720093" />
+    <state width="1750" height="278" key="GridCell.Tab.0.right/0.23.1792.1021@0.23.1792.1021" timestamp="1602248481515" />
     <state x="561" y="249" width="670" height="676" key="search.everywhere.popup" timestamp="1602227694254">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
