@@ -2,6 +2,7 @@
 
 抖音开放平台SDK Flutter 版本 SDK 插件封装  
 
+    支持 android 和ios 
 ## Getting Started
 
 ### 1.接入步骤
