@@ -130,3 +130,15 @@ ios 第一次运行
 
 
 
+
+抖音sdk官网
+
+https://open.douyin.com/platform/doc
+
+
+
+
+
+目前实现的功能是获取到  抖音sdk 的client_key  
+
+
